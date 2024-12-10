@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.prime.toolz.app-mergeDebugResources-75:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/rishikeshtr/.gradle/caches/transforms-3/b9f0ada03f5330348d3a0551aeba0e76/transformed/core-splashscreen-1.0.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "85",
+                        "endOffsets": "136"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "85",
+                        "endOffsets": "181"
+                    }
+                },
+                {
+                    "source": "/Users/rishikeshtr/.gradle/caches/transforms-3/7a4f0d9ffd7f3b5c79b8c477a7046acf/transformed/appcompat-1.6.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,27",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "186,256,340,424,520,622,724,1739",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "251,335,419,515,617,719,813,1823"
+                    }
+                },
+                {
+                    "source": "/Users/rishikeshtr/AndroidStudioProjects/Toolz/app/src/main/res/values-night/theme.xml",
+                    "from": {
+                        "startLines": "10,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "530,103",
+                        "endLines": "20,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "1170,524"
+                    },
+                    "to": {
+                        "startLines": "10,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "818,1317",
+                        "endLines": "20,26",
+                        "endColumns": "12,12",
+                        "endOffsets": "1312,1734"
+                    }
+                }
+            ]
+        }
+    ]
+}

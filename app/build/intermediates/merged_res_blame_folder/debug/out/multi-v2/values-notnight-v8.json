@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.prime.toolz.app-mergeDebugResources-75:/values-notnight-v8/values-notnight-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/rishikeshtr/AndroidStudioProjects/Toolz/app/src/main/res/values-notnight/theme.xml",
+                    "from": {
+                        "startLines": "11,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "575,103",
+                        "endLines": "22,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "1262,569"
+                    },
+                    "to": {
+                        "startLines": "2,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,646",
+                        "endLines": "13,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "641,1108"
+                    }
+                }
+            ]
+        }
+    ]
+}

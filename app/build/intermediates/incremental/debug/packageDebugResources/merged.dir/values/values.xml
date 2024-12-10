@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array>
+    <string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>
+            MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=
+        </item>
+    </string-array>
+    <string-array name="com_google_android_gms_fonts_certs_prod">
+        <item>
+            MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK
+        </item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#0078D2</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="about_us">About Us</string>
+    <string name="about_us_desc">
+      Hello, I\'m Zakir Sheikh, a passionate app developer. I strive to create apps that are both functional and visually stunning. Your valuable feedback helps me understand your needs better. Kindly rate the app 5 stars to keep me motivated and inspired. Thank you for your support!
+    </string>
+    <string name="access_token_instructions">
+        <![CDATA[Please follow the steps below to obtain the Access Token:<br><br>
+<font color="#FF4081">Step 1:</font> Click <a href="https://chat.openai.com/chat"><u>here</u></a> to login.<br>
+<font color="#FF4081">Step 2:</font> After logging in, click <a href="https://chat.openai.com/api/auth/session"><u>here</u></a> to retrieve the Access Token (via browser).<br>
+<font color="#FF4081">Step 3:</font> Copy all the text from Step 2 and paste it into the text field below.<br>
+<font color="#FF4081">Step 4:</font> Press "Go" to validate the token.]]>
+    </string>
+    <string name="acre">Acre</string>
+    <string name="all_cleared">AC</string>
+    <string name="angle">Angle</string>
+    <string name="app_name" translatable="false">Debug</string>
+    <string name="app_version">App Version</string>
+    <string name="appearance">Appearance</string>
+    <string name="area">Area</string>
+    <string name="astronomical_unt">Astronomical Unit</string>
+    <string name="atmosphere">Atmosphere</string>
+    <string name="backspace">backspace</string>
+    <string name="bar">Bar</string>
+    <string name="barrels">Barrel</string>
+    <string name="bit">Bit</string>
+    <string name="british_thermal_units">British Thermal Unit</string>
+    <string name="british_thermal_units_per_minute">BTU/minute</string>
+    <string name="byte_">Byte</string>
+    <string name="carat">Carat</string>
+    <string name="cbc_centimetres">Cubic centimetre</string>
+    <string name="cbc_inches">Cubic Inch</string>
+    <string name="cbc_metres">Cubic Metre</string>
+    <string name="cbc_yards">Cubic yard</string>
+    <string name="celsius">Celsius</string>
+    <string name="centigram">Centigram</string>
+    <string name="centimetre">Centimetre</string>
+    <string name="centimetres_per_second">Centimetre/second</string>
+    <string name="chatbot_name">ChatBot  <sup><font size="10">Beta</font></sup></string>
+    <string name="code_acre">a</string>
+    <string name="code_astronomical_unit">au</string>
+    <string name="code_atmosphere">atm</string>
+    <string name="code_bar">ba</string>
+    <string name="code_bit">b</string>
+    <string name="code_british_thermal_units">BTU</string>
+    <string name="code_british_thermal_units_per_minute">BTU/m</string>
+    <string name="code_byte">B</string>
+    <string name="code_carat">ct</string>
+    <string name="code_celsius">°C</string>
+    <string name="code_centigram">cg</string>
+    <string name="code_centimetre">cm</string>
+    <string name="code_centimetres_per_second">cm/s</string>
+    <string name="code_cubic_centimetres">cm\u00B3</string>
+    <string name="code_cubic_inches">in\u00B3</string>
+    <string name="code_cubic_metres">m\u00B3</string>
+    <string name="code_cubic_yard">yd\u00B3</string>
+    <string name="code_cups_us">cp (US)</string>
+    <string name="code_day">d</string>
+    <string name="code_decagram">dg</string>
+    <string name="code_decigram">dg</string>
+    <string name="code_degrees">°</string>
+    <string name="code_delisle">°De</string>
+    <string name="code_electron_volt">eV</string>
+    <string name="code_exabit">Eb</string>
+    <string name="code_exabyte">EB</string>
+    <string name="code_exbibit">Eib</string>
+    <string name="code_exbibyte">EiB</string>
+    <string name="code_fahrenheit">°F</string>
+    <string name="code_feet_per_second">ft/s</string>
+    <string name="code_fluid_ounce_uk"> fl oz (UK) </string>
+    <string name="code_fluid_ounce_us">fl oz (US)</string>
+    <string name="code_food_calorie">Cal</string>
+    <string name="code_foot">ft</string>
+    <string name="code_foot_pound">ft-lb</string>
+    <string name="code_foot_pounds_per_minute">ft.lb/m</string>
+    <string name="code_gallons_uk">gal (UK)</string>
+    <string name="code_gallons_us">gal (US)</string>
+    <string name="code_gibibit">Gib</string>
+    <string name="code_gibibyte">GiB</string>
+    <string name="code_gigabit">Gb</string>
+    <string name="code_gigabyte">GB</string>
+    <string name="code_gradian">grad</string>
+    <string name="code_gram">g</string>
+    <string name="code_hectare">ha</string>
+    <string name="code_hectogram">hg</string>
+    <string name="code_horse_power_us">hp(US)</string>
+    <string name="code_hour">h</string>
+    <string name="code_inch">in</string>
+    <string name="code_joule">J</string>
+    <string name="code_kelvin">K</string>
+    <string name="code_kibibit">Kib</string>
+    <string name="code_kibibyte">KiB</string>
+    <string name="code_kilobit">Kb</string>
+    <string name="code_kilobyte">KB</string>
+    <string name="code_kilogram">kg</string>
+    <string name="code_kilojoule">kJ</string>
+    <string name="code_kilometre">km</string>
+    <string name="code_kilometres_per_hour">k/s</string>
+    <string name="code_kilopascal">kPa</string>
+    <string name="code_kilowatt">kW</string>
+    <string name="code_knot">kn</string>
+    <string name="code_light_year">ly</string>
+    <string name="code_litres">l</string>
+    <string name="code_long_ton">t (UK)</string>
+    <string name="code_mach">M</string>
+    <string name="code_mebibit">Mib</string>
+    <string name="code_mebibyte">MiB</string>
+    <string name="code_megabit">Mb</string>
+    <string name="code_megabyte">MB</string>
+    <string name="code_metre">m</string>
+    <string name="code_metres_per_second">m/s</string>
+    <string name="code_metric_ton">t</string>
+    <string name="code_micrometre">µm</string>
+    <string name="code_microsecond">µs</string>
+    <string name="code_mile">mi</string>
+    <string name="code_miles_per_hour">mph</string>
+    <string name="code_milligram">mg</string>
+    <string name="code_millilitres">ml</string>
+    <string name="code_millimetre">mm</string>
+    <string name="code_millisecond">ms</string>
+    <string name="code_minute">m</string>
+    <string name="code_mm_of_mercury">mm Hg</string>
+    <string name="code_nanometre">nm</string>
+    <string name="code_nanosecond">ns</string>
+    <string name="code_nautical_mile">nmi</string>
+    <string name="code_newton">°N</string>
+    <string name="code_ounce">oz</string>
+    <string name="code_pascal">Pa</string>
+    <string name="code_pebibit">Pib</string>
+    <string name="code_pebibyte">PiB</string>
+    <string name="code_petabit">Pb</string>
+    <string name="code_petabyte">PB</string>
+    <string name="code_pint_uk">pt (UK)</string>
+    <string name="code_pints_us">pt (US)</string>
+    <string name="code_pound">lb</string>
+    <string name="code_pounds_per_inch">Psi</string>
+    <string name="code_quarts_uk">qt (UK)</string>
+    <string name="code_quarts_us">qt (US)</string>
+    <string name="code_radian">rad</string>
+    <string name="code_rankine">°R</string>
+    <string name="code_reaumur">°Ré</string>
+    <string name="code_romer">°Rø</string>
+    <string name="code_second">s</string>
+    <string name="code_short_ton">t (US)</string>
+    <string name="code_sq_centimetres">cm\u002</string>
+    <string name="code_sq_foot">ft\u002</string>
+    <string name="code_sq_inche">in\u002</string>
+    <string name="code_sq_kilometre">km\u002</string>
+    <string name="code_sq_metres">m\u002</string>
+    <string name="code_sq_mile">mi\u002</string>
+    <string name="code_sq_millimetres">mm\u002</string>
+    <string name="code_sq_yard">yd\u002</string>
+    <string name="code_stone">st</string>
+    <string name="code_tablespoon_uk">tbsp (UK)</string>
+    <string name="code_tablespoon_us">tbsp (US)</string>
+    <string name="code_teaspoon_uk">tspn (UK)</string>
+    <string name="code_teaspoon_us">tsp (US)</string>
+    <string name="code_tebibit">Tib</string>
+    <string name="code_tebibyte">TiB</string>
+    <string name="code_terabit">Tb</string>
+    <string name="code_terabyte">TB</string>
+    <string name="code_thermal_calorie">TCal</string>
+    <string name="code_watt">W</string>
+    <string name="code_week">wk</string>
+    <string name="code_yard">yd</string>
+    <string name="code_year">yr</string>
+    <string name="code_yobibit">Yib</string>
+    <string name="code_yobibyte">YiB</string>
+    <string name="code_yotabit">Yb</string>
+    <string name="code_yottabyte">YB</string>
+    <string name="code_zebibit">Zib</string>
+    <string name="code_zebibyte">ZiB</string>
+    <string name="code_zetabit">Zb</string>
+    <string name="code_zetabyte">ZB</string>
+    <string name="color_system_bars">Color System Bars</string>
+    <string name="color_system_bars_summery">Enable or disable coloring of the system bars.</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">00000000000000000000000000000000</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="coming_soon_msg">
+        We\'re sorry, this feature is not available yet. We\'re working hard to add it in a future
+        update. Thank you for your patience and understanding.
+    </string>
+    <string name="cups_us">Cup (US)</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_mode_summery">Choose the dark mode for the app: Yes, No, or Follow System.</string>
+    <string name="data">Data</string>
+    <string name="day">Day</string>
+    <string name="dec_point">.</string>
+    <string name="decagram">Decagram</string>
+    <string name="decigram">Decigram</string>
+    <string name="default_web_client_id" translatable="false">852928587406-19q4df0386i3ls5nm49g2i4fff009u94.apps.googleusercontent.com</string>
+    <string name="degrees">Degree</string>
+    <string name="delisle">Delisle</string>
+    <string name="digit_0" translatable="false">0</string>
+    <string name="digit_1" translatable="false">1</string>
+    <string name="digit_2" translatable="false">2</string>
+    <string name="digit_3" translatable="false">3</string>
+    <string name="digit_4" translatable="false">4</string>
+    <string name="digit_5" translatable="false">5</string>
+    <string name="digit_6" translatable="false">6</string>
+    <string name="digit_7" translatable="false">7</string>
+    <string name="digit_8" translatable="false">8</string>
+    <string name="digit_9" translatable="false">9</string>
+    <string name="dismiss">dismiss</string>
+    <string name="donate">Donate</string>
+    <string name="dynamic_colors">Dynamic colors</string>
+    <string name="dynamic_colors_summery">Toggle the usage of dynamic colors. This feature is available only on Android 12 or higher.</string>
+    <string name="electron_volt">Electron Volt</string>
+    <string name="energy">Energy</string>
+    <string name="exabit">Exabit</string>
+    <string name="exabyte">Exabyte</string>
+    <string name="exbibit">Exbibit</string>
+    <string name="exbibyte">Exbibyte</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="feedback">Feedback</string>
+    <string name="feedback_desc">
+       We hope you\'re enjoying our app! Your opinion matters to us, and we\'d love to hear your thoughts on how we can make it even better. If you have a moment, please leave us some feedback in the app store. Your feedback will help us continue to improve our app and provide the best experience possible. Thank you for your support!
+    </string>
+    <string name="feet_per_second">Foot/Second</string>
+    <string name="fluid_ounce_uk">Fluid ounce (UK)</string>
+    <string name="fluid_ounce_us">Fluid ounce (US)</string>
+    <string name="food_calorie">Food Calorie</string>
+    <string name="foot">Foot</string>
+    <string name="foot_pound">Foot_Pound</string>
+    <string name="foot_pounds_per_minute">Foot-Pound/minute</string>
+    <string name="gallons_uk">Gallon (UK)</string>
+    <string name="gallons_us">Gallon (US)</string>
+    <string name="gcm_defaultSenderId" translatable="false">852928587406</string>
+    <string name="general">General</string>
+    <string name="gibibit">Gibibit</string>
+    <string name="gibibyte">Gibibyte</string>
+    <string name="gigabit">Gigabit</string>
+    <string name="gigabyte">Gigabyte</string>
+    <string name="github">Github</string>
+    <string name="google_api_key" translatable="false">AIzaSyAm5X9pEAAtJy55CEKS_0D1xL-mNq-AH-c</string>
+    <string name="google_app_id" translatable="false">1:852928587406:android:1c78182b04def5adb7cbdf</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAm5X9pEAAtJy55CEKS_0D1xL-mNq-AH-c</string>
+    <string name="google_storage_bucket" translatable="false">toolz-290fb.appspot.com</string>
+    <string name="gradian">Gradian</string>
+    <string name="gram">Gram</string>
+    <string name="group_separator">Group Separator</string>
+    <string name="group_separator_summery">Set the number group separator.</string>
+    <string name="hectare">Hectare</string>
+    <string name="hectogram">Hectogram</string>
+    <string name="hide_status_bar">Hide Status Bar</string>
+    <string name="hide_status_bar_summery">Toggle the visibility of the status bar for immersive views.</string>
+    <string name="horse_power_us">Horse power (US)</string>
+    <string name="hour">Hour</string>
+    <string name="imperial_system">Imperial System</string>
+    <string name="imperial_system_us">Imperial System (US)</string>
+    <string name="inch">Inch</string>
+    <string name="joule">Joule</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="kibibit">Kibibit</string>
+    <string name="kibibyte">Kibibyte</string>
+    <string name="kilobit">Kilobit</string>
+    <string name="kilobyte">Kilobyte</string>
+    <string name="kilogram">Kilogram</string>
+    <string name="kilojoule">Kilojoule</string>
+    <string name="kilometre">Kilometre</string>
+    <string name="kilometres_per_hour">Kilometer/hour</string>
+    <string name="kilopascal">Kilopascal</string>
+    <string name="kilowatt">Kilowatt</string>
+    <string name="knot">Knot</string>
+    <string name="length">Length</string>
+    <string name="light_year">Light Year</string>
+    <string name="litres">Litre</string>
+    <string name="long_ton">Ton (UK/long)</string>
+    <string name="mach">Mach</string>
+    <string name="mebibit">Mebibit</string>
+    <string name="mebibytes">Mebibyte</string>
+    <string name="megabit">Megabit</string>
+    <string name="megabyte">Megabyte</string>
+    <string name="metre">Metre</string>
+    <string name="metres_per_second">Meter/second</string>
+    <string name="metric_ton">Ton (metric)</string>
+    <string name="micrometre">Micrometre (Micron)</string>
+    <string name="microsecond">Microsecond</string>
+    <string name="mile">Mile</string>
+    <string name="miles_per_hour">Mile/hour</string>
+    <string name="milligram">Milligram</string>
+    <string name="millilitres">Millilitre</string>
+    <string name="millimetre">Millimetre</string>
+    <string name="millisecond">Millisecond</string>
+    <string name="minute">Minute</string>
+    <string name="mm_of_mercury">Millimetre of Mercury</string>
+    <string name="nanometre">Nanometre</string>
+    <string name="nanosecond">Nanosecond</string>
+    <string name="nautical_mile">Nautical Mile</string>
+    <string name="newton">Newton</string>
+    <string name="ounce">Ounce</string>
+    <string name="pascal">Pascal</string>
+    <string name="pebibit">Pebibit</string>
+    <string name="pebibyte">Pebibyte</string>
+    <string name="petabit">Petabit</string>
+    <string name="petabytes">Petabyte</string>
+    <string name="pints_uk">Pint (UK)</string>
+    <string name="pints_us">Pint (US)</string>
+    <string name="pound">Pound</string>
+    <string name="pounds_per_inch">Pound per Inch</string>
+    <string name="power">Power</string>
+    <string name="pressure">Pressure</string>
+    <string name="project_id" translatable="false">toolz-290fb</string>
+    <string name="quarts_uk">Quart (UK)</string>
+    <string name="quarts_us">Quart (US)</string>
+    <string name="radian">Radian</string>
+    <string name="rankine">Rankine</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="rate_us_msg">
+        Love using Toolz? Please rate it 5 stars on the app store! Your support keeps us going.\nTap to rate now.\nThanks!
+    </string>
+    <string name="reaumur">Réaumur</string>
+    <string name="remove_ads"><strike>ADS</strike></string>
+    <string name="restart">Restart</string>
+    <string name="romer">Rømer</string>
+    <string name="second">Second</string>
+    <string name="settings">Settings</string>
+    <string name="short_ton">Ton (US/short)</string>
+    <string name="spacer">spacer</string>
+    <string name="speed">Speed</string>
+    <string name="spread_the_word">Spread the word</string>
+    <string name="spread_the_word_msg">
+       As the saying goes, \'Sharing is caring.\' Help our app grow by spreading the word among your friends, family, and WhatsApp groups. Your support means the world to us!
+    </string>
+    <string name="sq_centimetres">Square Centimetre</string>
+    <string name="sq_foot">Square Foot</string>
+    <string name="sq_inche">Square Inche</string>
+    <string name="sq_kilometre">Square Kilometre</string>
+    <string name="sq_metres">Square Metre</string>
+    <string name="sq_mile">Square Mile</string>
+    <string name="sq_millimetres">Square Millimetre</string>
+    <string name="sq_yard">Square Yard</string>
+    <string name="stone">Stone</string>
+    <string name="swap">swap</string>
+    <string name="system_international">System International</string>
+    <string name="tablespoon_uk">Tablespoon (UK)</string>
+    <string name="tablespoon_us">Tablespoon (US)</string>
+    <string name="teaspoon_uk">Teaspoon (UK)</string>
+    <string name="teaspoon_us">Teapoon(US)</string>
+    <string name="tebibits">Tebibit</string>
+    <string name="tebibyte">Tebibyte</string>
+    <string name="temperature">Temperature</string>
+    <string name="terabit">Terabit</string>
+    <string name="terabyte">Terabyte</string>
+    <string name="thermal_calorie">Thermal Calorie</string>
+    <string name="time">Time</string>
+    <string name="unit_converter_html"><b>Unit</b>\n<sup><font size="10">Converter</font></sup></string>
+    <string name="united_system_customary_system">United States Customary System (USCS) </string>
+    <string name="unknown">unknown</string>
+    <string name="update_downloaded_msg">An update has just been downloaded.</string>
+    <string name="update_msg_latest">The app is already updated to the latest version.</string>
+    <string name="volume">Volume</string>
+    <string name="watt">Watt</string>
+    <string name="week">Week</string>
+    <string name="weight_and_mass">Weight &amp; Mass</string>
+    <string name="yard">Yard</string>
+    <string name="year">Year</string>
+    <string name="yobibit">Yobibit</string>
+    <string name="yobibyte">Yobibyte</string>
+    <string name="yotabit">Yottabit</string>
+    <string name="yottabyte">Yottabyte</string>
+    <string name="zebibit">Zebibit</string>
+    <string name="zebibytes">Zebibyte</string>
+    <string name="zetabit">Zetabit</string>
+    <string name="zetabyte">Zetabyte</string>
+</resources>

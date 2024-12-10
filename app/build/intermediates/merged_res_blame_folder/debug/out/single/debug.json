@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.prime.toolz.app-main-79:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/raw_lt_loading_dots_blue.json.flat",
+        "source": "com.prime.toolz.app-main-79:/raw/lt_loading_dots_blue.json"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_ic_sd_card.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/ic_sd_card.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_brand_logo_dark.png.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/brand_logo_dark.png"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.prime.toolz.app-main-79:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.prime.toolz.app-main-79:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.prime.toolz.app-main-79:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_ic_motorcycle.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/ic_motorcycle.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.prime.toolz.app-main-79:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_ic_length.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/ic_length.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_ic_energy.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/ic_energy.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_ic_pressure.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/ic_pressure.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_icon_converter.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/icon_converter.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.prime.toolz.app-main-79:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_ic_splash.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/ic_splash.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.prime.toolz.app-main-79:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/xml_data_extraction_rules.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/xml_backup_rules.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_ic_power.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/ic_power.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_ic_handyman.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/ic_handyman.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_ic_angle.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/ic_angle.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_ic_temperature.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/ic_temperature.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_ic_volume.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/ic_volume.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.prime.toolz.app-main-79:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_ic_weight_n_mass.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/ic_weight_n_mass.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.prime.toolz.app-main-79:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_ic_time.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/ic_time.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_brand_logo_light.png.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/brand_logo_light.png"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_ic_remove_ads.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/ic_remove_ads.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_icon_calander.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/icon_calander.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.prime.toolz.app-main-79:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_ic_area.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/ic_area.xml"
+    },
+    {
+        "merged": "com.prime.toolz.app-merged_res-77:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.prime.toolz.app-main-79:/drawable/ic_launcher_foreground.xml"
+    }
+]
